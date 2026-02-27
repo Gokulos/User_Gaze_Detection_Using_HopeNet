@@ -41,8 +41,7 @@ pip install -r requirements.txt
 ---
 ## Model Weights
 The hopenet model as well as weights have been borrowed from this repository: https://github.com/human-analysis/RankGAN/blob/master/models/
-\n hopenet.py
-\n hopenet_robust_alpha1.pkl
+Files: hopenet.py, hopenet_robust_alpha1.pkl
 
 ---
 
