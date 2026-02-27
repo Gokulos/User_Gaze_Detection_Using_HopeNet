@@ -9,6 +9,7 @@ The system detects a face, estimates yaw/pitch/roll using **Hopenet**, and displ
 
 ## Demo
 
+![Demo](Results/GIF.gif)
 
 ---
 
