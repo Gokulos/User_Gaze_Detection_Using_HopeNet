@@ -30,13 +30,17 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-├── main.py
-├── model.py
-├── preprocessing.py
-├── utils.py
-├── hopenet.py
-├── hopenet_robust_alpha1.pkl
-├── requirements.txt
+├── src/
+│   └── config.py
+│   └── hopenet.py
+│   └── logger.py
+│   └── main.py
+│   └── model.py
+│   └── preprocessing.py
+│   └── utils.py
+├── Notebook/
+│   └── HeadPose_Monitoring_Improved.ipynb
+├── Requirements.txt
 └── README.md
 ```
 ---
