@@ -3,8 +3,6 @@
 A real-time head pose estimation pipeline using a laptop webcam to detect whether a user is looking away from the screen.  
 The system detects a face, estimates yaw/pitch/roll using **Hopenet**, and displays warnings when head pose exceeds configurable thresholds.
 
-> **Use case examples:** attention monitoring, UX studies, online proctoring research prototypes, HCI experiments.  
-
 ---
 
 ## Demo
